@@ -13,13 +13,11 @@
    git clone https://github.com/Pilaar10/recu51337.git
    cd antlr4-js-parser
    ```
+   Copia el directorio del repositorio incluida la carpeta ssl-antlr-js-parser.
+2 .Abre una terminal y luego coloca cd + (el directorio que copiaste recientemente):
+cd C:\...\ssl-antrl-js-parser
 
-2. Asegúrate de que los archivos de entrada (`input.txt`) estén presentes en la raíz del proyecto. Puedes usar ejemplos válidos o inválidos según lo que quieras probar.
-
-3. Abre una terminal en la carpeta del proyecto:
-   ```
-   cd ruta/del/proyecto/antlr4-js-parser
-   ```
+3. Asegúrate de que los archivos de entrada (`input.txt`) estén presentes en la raíz del proyecto. Puedes usar ejemplos válidos o inválidos según lo que quieras probar.
 
 4. Ejecuta el analizador con:
    ```
