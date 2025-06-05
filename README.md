@@ -10,7 +10,7 @@
 
 1. Clona este repositorio desde GitHub:
    ```
-   git clone https://github.com/Pilaar10/recu51337
+   git clone https://github.com/Pilaar10/recu51337.git
    cd antlr4-js-parser
    ```
 
