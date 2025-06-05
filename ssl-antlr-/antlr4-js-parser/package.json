@@ -1,0 +1,21 @@
+{
+  "name": "antlr4-js-parser",
+  "version": "1.0.0",
+  "description": "A parser for a specific language using ANTLR4 and JavaScript.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "antlr4": "^4.9.3"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "antlr",
+    "parser",
+    "javascript"
+  ],
+  "author": "",
+  "license": "ISC"
+}
